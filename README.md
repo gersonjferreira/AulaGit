@@ -2,3 +2,6 @@
 
 Fazendo uma primeira modificação no branch main.
 
+## Contribuições
+
+- Thiago
