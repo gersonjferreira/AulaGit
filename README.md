@@ -1,2 +1,4 @@
-# AulaGit
-Aula sobre git
+# Aula sobre Git
+
+Fazendo uma primeira modificação no branch main.
+
