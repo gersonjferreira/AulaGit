@@ -6,4 +6,4 @@ Fazendo uma primeira modificação no branch main.
 
 - Gerson
 - Thiago
-
+- Lucas
